@@ -1,0 +1,98 @@
+[
+  {
+    "musteri_id": 1,
+    "ad": "Beko Yilmaz",
+    "telefon": "05321234567",
+    "email": "beko@mail.com",
+    "firma": "",
+    "kayit_tarihi": "07.05.2026"
+  },
+  {
+    "musteri_id": 2,
+    "ad": "Ahmet Demir",
+    "telefon": "02125551234",
+    "email": "ahmet@anyotekstil.com",
+    "firma": "Anyo Tekstil A.S.",
+    "kayit_tarihi": "07.05.2026"
+  },
+  {
+    "musteri_id": 3,
+    "ad": "Selim Kaya",
+    "telefon": "05331112233",
+    "email": "selim@mail.com",
+    "firma": "",
+    "kayit_tarihi": "07.05.2026"
+  },
+  {
+    "musteri_id": 4,
+    "ad": "Zeynep Celik",
+    "telefon": "02164445678",
+    "email": "zeynep@maviyazilim.com",
+    "firma": "Mavi Yazilim Ltd.",
+    "kayit_tarihi": "07.05.2026"
+  },
+  {
+    "musteri_id": 5,
+    "ad": "Ali Sahin",
+    "telefon": "05442223344",
+    "email": "ali@mail.com",
+    "firma": "",
+    "kayit_tarihi": "07.05.2026"
+  },
+  {
+    "musteri_id": 6,
+    "ad": "Ayse Yilmaz",
+    "telefon": "03123331122",
+    "email": "ayse@cicekbotanik.com",
+    "firma": "Cicek Botanik",
+    "kayit_tarihi": "07.05.2026"
+  },
+  {
+    "musteri_id": 7,
+    "ad": "Murat Aydin",
+    "telefon": "05553334455",
+    "email": "murat@mail.com",
+    "firma": "",
+    "kayit_tarihi": "07.05.2026"
+  },
+  {
+    "musteri_id": 8,
+    "ad": "Can Ozturk",
+    "telefon": "02322223344",
+    "email": "can@starkafe.com",
+    "firma": "Star Kafe",
+    "kayit_tarihi": "07.05.2026"
+  },
+  {
+    "musteri_id": 9,
+    "ad": "Selin Yildiz",
+    "telefon": "05364445566",
+    "email": "selin@mail.com",
+    "firma": "",
+    "kayit_tarihi": "07.05.2026"
+  },
+  {
+    "musteri_id": 10,
+    "ad": "Mehmet Koc",
+    "telefon": "02246667788",
+    "email": "mehmet@kuzeyinsaat.com",
+    "firma": "Kuzey Insaat",
+    "kayit_tarihi": "07.05.2026"
+  },
+  {
+    "musteri_id": 11,
+    "ad": "Pinar Dogan",
+    "telefon": "05425556677",
+    "email": "pinar@mail.com",
+    "firma": "",
+    "kayit_tarihi": "07.05.2026"
+  },
+  {
+    "musteri_id": 12,
+    "ad": "Tolga Erdem",
+    "telefon": "02425556677",
+    "email": "tolga@laleeczanesi.com",
+    "firma": "Lale Eczanesi",
+    "kayit_tarihi": "07.05.2026"
+  }
+]

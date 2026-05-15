@@ -1,0 +1,10 @@
+[
+  {
+    "kullanici_adi": "admin",
+    "sifre_hash": "358ebdfb88bb5c5dc613e6fa289e08afa72a134324cda674548ef901af176b43",
+    "salt": "bea91a7dabcd4fa5b46eaf849d7f48e0",
+    "ad": "Admin",
+    "rol": "yonetici",
+    "olusturma": "2026-05-07T18:01:30.585584"
+  }
+]

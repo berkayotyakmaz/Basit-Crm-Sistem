@@ -1,0 +1,202 @@
+[
+  {
+    "satis_id": 1,
+    "musteri_id": 1,
+    "urun": "Premium Yazilim Lisansi",
+    "fiyat": 15000.0,
+    "adet": 2,
+    "tarih": "24.11.2025"
+  },
+  {
+    "satis_id": 2,
+    "musteri_id": 1,
+    "urun": "Web Tasarimi",
+    "fiyat": 25000.0,
+    "adet": 1,
+    "tarih": "08.04.2026"
+  },
+  {
+    "satis_id": 3,
+    "musteri_id": 2,
+    "urun": "SEO Paketi",
+    "fiyat": 8000.0,
+    "adet": 1,
+    "tarih": "30.04.2026"
+  },
+  {
+    "satis_id": 4,
+    "musteri_id": 2,
+    "urun": "Aylik Abonelik",
+    "fiyat": 1500.0,
+    "adet": 3,
+    "tarih": "25.02.2026"
+  },
+  {
+    "satis_id": 5,
+    "musteri_id": 3,
+    "urun": "Hosting (1 Yil)",
+    "fiyat": 2500.0,
+    "adet": 1,
+    "tarih": "05.03.2026"
+  },
+  {
+    "satis_id": 6,
+    "musteri_id": 4,
+    "urun": "Premium Yazilim Lisansi",
+    "fiyat": 15000.0,
+    "adet": 1,
+    "tarih": "10.03.2026"
+  },
+  {
+    "satis_id": 7,
+    "musteri_id": 4,
+    "urun": "Sosyal Medya Yonetimi",
+    "fiyat": 12000.0,
+    "adet": 1,
+    "tarih": "01.04.2026"
+  },
+  {
+    "satis_id": 8,
+    "musteri_id": 5,
+    "urun": "Domain",
+    "fiyat": 500.0,
+    "adet": 2,
+    "tarih": "10.04.2026"
+  },
+  {
+    "satis_id": 9,
+    "musteri_id": 5,
+    "urun": "Aylik Abonelik",
+    "fiyat": 1500.0,
+    "adet": 1,
+    "tarih": "14.11.2025"
+  },
+  {
+    "satis_id": 10,
+    "musteri_id": 6,
+    "urun": "Logo Tasarimi",
+    "fiyat": 5000.0,
+    "adet": 1,
+    "tarih": "18.12.2025"
+  },
+  {
+    "satis_id": 11,
+    "musteri_id": 6,
+    "urun": "Web Tasarimi",
+    "fiyat": 25000.0,
+    "adet": 1,
+    "tarih": "14.04.2026"
+  },
+  {
+    "satis_id": 12,
+    "musteri_id": 7,
+    "urun": "Premium Yazilim Lisansi",
+    "fiyat": 15000.0,
+    "adet": 1,
+    "tarih": "06.12.2025"
+  },
+  {
+    "satis_id": 13,
+    "musteri_id": 7,
+    "urun": "SEO Paketi",
+    "fiyat": 8000.0,
+    "adet": 1,
+    "tarih": "18.01.2026"
+  },
+  {
+    "satis_id": 14,
+    "musteri_id": 8,
+    "urun": "Hosting (1 Yil)",
+    "fiyat": 2500.0,
+    "adet": 1,
+    "tarih": "28.04.2026"
+  },
+  {
+    "satis_id": 15,
+    "musteri_id": 8,
+    "urun": "Sosyal Medya Yonetimi",
+    "fiyat": 12000.0,
+    "adet": 2,
+    "tarih": "29.04.2026"
+  },
+  {
+    "satis_id": 16,
+    "musteri_id": 9,
+    "urun": "Aylik Abonelik",
+    "fiyat": 1500.0,
+    "adet": 1,
+    "tarih": "13.04.2026"
+  },
+  {
+    "satis_id": 17,
+    "musteri_id": 9,
+    "urun": "Domain",
+    "fiyat": 500.0,
+    "adet": 1,
+    "tarih": "12.03.2026"
+  },
+  {
+    "satis_id": 18,
+    "musteri_id": 10,
+    "urun": "Premium Yazilim Lisansi",
+    "fiyat": 15000.0,
+    "adet": 1,
+    "tarih": "08.03.2026"
+  },
+  {
+    "satis_id": 19,
+    "musteri_id": 10,
+    "urun": "Logo Tasarimi",
+    "fiyat": 5000.0,
+    "adet": 1,
+    "tarih": "28.12.2025"
+  },
+  {
+    "satis_id": 20,
+    "musteri_id": 11,
+    "urun": "Web Tasarimi",
+    "fiyat": 25000.0,
+    "adet": 1,
+    "tarih": "03.12.2025"
+  },
+  {
+    "satis_id": 21,
+    "musteri_id": 11,
+    "urun": "SEO Paketi",
+    "fiyat": 8000.0,
+    "adet": 1,
+    "tarih": "30.04.2026"
+  },
+  {
+    "satis_id": 22,
+    "musteri_id": 12,
+    "urun": "Sosyal Medya Yonetimi",
+    "fiyat": 12000.0,
+    "adet": 1,
+    "tarih": "14.12.2025"
+  },
+  {
+    "satis_id": 23,
+    "musteri_id": 12,
+    "urun": "Hosting (1 Yil)",
+    "fiyat": 2500.0,
+    "adet": 1,
+    "tarih": "17.03.2026"
+  },
+  {
+    "satis_id": 24,
+    "musteri_id": 1,
+    "urun": "Sosyal Medya Yonetimi",
+    "fiyat": 12000.0,
+    "adet": 1,
+    "tarih": "21.11.2025"
+  },
+  {
+    "satis_id": 25,
+    "musteri_id": 3,
+    "urun": "Premium Yazilim Lisansi",
+    "fiyat": 15000.0,
+    "adet": 1,
+    "tarih": "08.11.2025"
+  }
+]

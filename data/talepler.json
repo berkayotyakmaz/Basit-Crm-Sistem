@@ -1,0 +1,74 @@
+[
+  {
+    "talep_id": 1,
+    "musteri_id": 1,
+    "aciklama": "Faturami bulamiyorum, yardim eder misiniz?",
+    "durum": "cevaplandi",
+    "oncelik": "yuksek",
+    "olusturma_tarihi": "07.05.2026",
+    "kapanis_tarihi": null
+  },
+  {
+    "talep_id": 2,
+    "musteri_id": 2,
+    "aciklama": "Yazilim acilmiyor lutfen yardim",
+    "durum": "cevaplandi",
+    "oncelik": "yuksek",
+    "olusturma_tarihi": "07.05.2026",
+    "kapanis_tarihi": null
+  },
+  {
+    "talep_id": 3,
+    "musteri_id": 4,
+    "aciklama": "Iade istiyorum, urun tarif edilen gibi degil",
+    "durum": "acik",
+    "oncelik": "yuksek",
+    "olusturma_tarihi": "07.05.2026",
+    "kapanis_tarihi": null
+  },
+  {
+    "talep_id": 4,
+    "musteri_id": 3,
+    "aciklama": "Hosting yavasliyor, performans sorunu var",
+    "durum": "cevaplandi",
+    "oncelik": "orta",
+    "olusturma_tarihi": "07.05.2026",
+    "kapanis_tarihi": null
+  },
+  {
+    "talep_id": 5,
+    "musteri_id": 6,
+    "aciklama": "Logo dosyasini tekrar gonderir misiniz?",
+    "durum": "kapali",
+    "oncelik": "dusuk",
+    "olusturma_tarihi": "07.05.2026",
+    "kapanis_tarihi": "07.05.2026"
+  },
+  {
+    "talep_id": 6,
+    "musteri_id": 5,
+    "aciklama": "SEO raporunu ne zaman alirim?",
+    "durum": "kapali",
+    "oncelik": "orta",
+    "olusturma_tarihi": "07.05.2026",
+    "kapanis_tarihi": "07.05.2026"
+  },
+  {
+    "talep_id": 7,
+    "musteri_id": 8,
+    "aciklama": "Domain yonlendirmesi calismiyor",
+    "durum": "kapali",
+    "oncelik": "orta",
+    "olusturma_tarihi": "07.05.2026",
+    "kapanis_tarihi": "07.05.2026"
+  },
+  {
+    "talep_id": 8,
+    "musteri_id": 10,
+    "aciklama": "Abonelik iptali hakkinda bilgi istiyorum",
+    "durum": "kapali",
+    "oncelik": "dusuk",
+    "olusturma_tarihi": "07.05.2026",
+    "kapanis_tarihi": "07.05.2026"
+  }
+]
